@@ -14,5 +14,5 @@ else if(randomVariable2>randomVariable1){
     document.querySelectorAll("h1")[0].textContent="Player 2 Wins";
 }
 else{
-  document.querySelectorAll("h1")[0].textContent="Draw";
+  document.querySelectorAll("h1")[0].textContent="Draww";
 }
